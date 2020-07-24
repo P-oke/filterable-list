@@ -1,0 +1,30 @@
+* {
+  list-style: none;
+  padding: 0;
+  outline: none;
+}
+
+.container {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 1.7em;
+  background-color: rgb(228, 236, 236);
+}
+
+.header {
+  text-align: center;
+  color: rosybrown;
+  font-size: 2.3em;
+  text-shadow: 2px 2px black;
+}
+input {
+  width: 40%;
+  padding: 8px;
+}
+li {
+  border: 1px solid teal;
+  padding: 0.3em;
+}
+.collection-header {
+  color: blueviolet;
+  font-weight: 900;
+}
